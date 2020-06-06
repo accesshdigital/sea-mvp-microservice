@@ -52,6 +52,12 @@ Please note that supporting services (Config and Discovery Server) must be start
 *   **Admin Server (Spring Boot Admin)** - [http://localhost:9090](http://localhost:9090/)
 *   **Grafana Dashboards** - [http://localhost:3000](http://localhost:3000/)
 *   **Prometheus** - [http://localhost:9091](http://localhost:9091/)
+*   **ELK Server** - [http://localhost:8282](http://localhost:8282/)
+*   **JWT Auth Service** - [http://localhost:8080](http://localhost:8080/)
+*   **Hystrix** - [http://localhost:8181](http://localhost:8181/)
+
+
+
 
 You can tell Config Server to use your local Git repository by using native Spring profile and setting GIT_REPO environment variable, for example, Dspring.profiles.active=native -DGIT_REPO=/projects/spring-mvp-microservices-config
 
