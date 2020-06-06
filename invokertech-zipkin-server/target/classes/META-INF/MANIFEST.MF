@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: zipkin-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ved
+Implementation-Vendor-Id: com.invokertech
+Build-Jdk: 1.8.0_241
+Implementation-URL: http://projects.spring.io/spring-boot/zipkin-serve
+ r/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
