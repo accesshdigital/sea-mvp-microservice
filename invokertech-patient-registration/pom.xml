@@ -8,11 +8,11 @@
         <version>2.2.2.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.ndhb.pcare</groupId>
-    <artifactId>py-care</artifactId>
+    <groupId>com.invokertech.patient</groupId>
+    <artifactId>patient-registration</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>py-care</name>
-    <description>PY Care </description>
+    <name>patient-registration</name>
+    <description>Patient Registration</description>
 
     <properties>
         <java.version>1.8</java.version>
