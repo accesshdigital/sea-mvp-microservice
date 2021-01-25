@@ -96,6 +96,24 @@ Hystrix stream provides information on a single application, Turbine provides a 
 
 ![Grafana metrics dashboard](docs/grafana-custom-metrics-dashboard.png)
 
+11. **AHD Patient Registration:** Based on Access Health Digital Registration MVP provides functionalities related to patient registration. This microservice deals with various functionalities for managing patient registration for primary care and specialist care setting. Patient registration is an important and critical process to initiate patient care by a healthcare provider. 
+
+12. **AHD Subjective:**  Based on the Subjective microservice released by Access Health Digital. It elaborates the functionalities related to the Subjective part of the SOAP (Subjective,Objective,Assessment,Plan)  note which is used to capture patient’s critical health information for arriving at a diagnosis and treatment plan for a patient . It is a way for healthcare professionals to document the information in a structured & organized way and is being used worldwide by the medical professionals. It also guides the professionals for evaluating information and provides a cognitive framework for clinical reasoning. 
+Subjective is the first part of the SOAP note. Any documentation under this part comes from the patient directly i.e. patient’s experiences, views, feelings. This part provides context for the Objective, Assessment and Plan.
+Subjective information comprises of the following sections-
+
+Chief complaints- Any symptoms, problem, complaints or any other short statement that describes the patient’s need for seeking consultation and his/her visit to the healthcare facility. The patient’s own narration of their problem in their own words is recorded under the chief complaints section. A patient can report one or multiple chief complaints (if present) that will help in arriving at a diagnosis. A chief complaint can also be used to start a clinical episode the patient may require a treatment for e.g.: chest paint, shortness of breath.
+History of present illness- This is the section where patient elaborates or provides more information about the reason of his/her visit. This section uses acronym “OLDCARTS” for elaborating the chief complaints of the patient. “OLDCARTS” is short for “Onset, Location, Duration, Characterization, Aggravating factors (if its better or worse during a course of day), Alleviating factors, Radiation (if the symptom is restricted to an area or moves), and Severity. Though capturing all the parameters mentioned are not mandatory for every clinical setting. Capturing information about these parameters depends upon the type of complaint reported and can be template driven. 
+Patient History – This section is very critical specially for the first visit of a new patient. This section is used to capture patient’s history in greater detail ( medical history: current or past medical conditions, surgical history family history and social history). This is critical to set the context for a diagnosis and treatment plan.
+
+13. **AHD Objective :** Based on the Objective microservice released by Access Health Digital. It elaborates the functionalities related to the Objective part of the SOAP (Subjective,Objective,Assessment,Plan)  note. Any information which is objective about the patient and is directly observed, can be measured or recorded by the healthcare provider or any point of carer device is documented under the objective section (e.g. vitals signs, physical examination findings etc.).
+
+14. **AHD  Assessment:** Based on the Assessment microservice released by Access Health Digital. It elaborates the functionalities related to the Assessment part of the SOAP (Subjective,Objective,Assessment,Plan)  note. The Assessment section can also be referred as ‘Diagnosis segment’ that most of the EHR/EMR applications provide. The Assessment section documents the findings synthesized from the “Subjective” & “Objective” sections of the SOAP note. In general the doctor reviews the patient’s problems, complaints, history, vitals, physical examination to arrive at a diagnosis.
+
+
+15. **AHD Plan:** Based on the Plan microservice released by Access Health Digital. It elaborates the functionalities related to the Plan part of the SOAP (Subjective,Objective,Assessment,Plan)  note. This section details the treatment that needs to be rendered to the patient and also addresses the additional steps or any testing requirements. The Plan section covers : Clinical Orders (Medication, Lab Investigations, Radiological Investigations, Procedures); e-Referral; Follow-up Orders. 
+
+
 
 ### Using Prometheus:
 
