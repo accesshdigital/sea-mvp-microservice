@@ -1,15 +1,21 @@
+# Published MVP Microservices
+
 | Microservice Name    |      Version      |  OpenBodhik.in link |
 |----------|:-------------:|------:|
 | Cloud Configuration: |  0.5 | http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
 | Service Discovery:   |  0.5    |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| JWT Auth Server:  | 0.5  |   http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html|
 | Hystrix and Ribbon:  | 0.5  |   http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
 | Zuul Gateway: |  0.5  |http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
 | Cloud Stream:   | 0.5   |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
-| Hystrix and Ribbon:  | 0.5  |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
-| Sleuth/Zipkin:: | 0.5 |http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Sleuth/Zipkin: | 0.5 |http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
 | Admin Server:   | 0.5    |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
-| JWT Auth Server:  | 0.5  |   http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html|
-    
+| Patient Registration microservice:  | 0.5  |   http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html|
+| Appointment microservice:  | 0.5  |   http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html|
+| Subjective microservice: | 0.5 |http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Objective microservice:   | 0.5    |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Assesment microservice:   | 0.5    |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Plan microservice:   | 0.5    |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
 
 
 # MVP Microservice Application built with Spring Cloud
