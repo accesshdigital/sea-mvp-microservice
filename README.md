@@ -1,14 +1,14 @@
-| Tables   |      Are      |  a |
+| Microservice Name    |      Version      |  OpenBodhik.in link |
 |----------|:-------------:|------:|
-| Cloud Configuration: |  left-aligned | $1600 |
-| Service Discovery:   |  centered   |   $12 |
-| Hystrix and Ribbon:  |  right-aligned |    $1 |
-| Zuul Gateway: |  left-aligned | $1600 |
-| Cloud Stream:   |  centered   |   $12 |
-| Hystrix and Ribbon:  |  right-aligned |    $1 |
-| Sleuth/Zipkin:: |  left-aligned | $1600 |
-| Admin Server:   |  centered   |   $12 |
-| JWT Auth Server:  |  right-aligned |    $1 |
+| Cloud Configuration: |  0.5 | http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Service Discovery:   |  0.5    |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Hystrix and Ribbon:  | 0.5  |   http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Zuul Gateway: |  0.5  |http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Cloud Stream:   | 0.5   |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Hystrix and Ribbon:  | 0.5  |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Sleuth/Zipkin:: | 0.5 |http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| Admin Server:   | 0.5    |  http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html |
+| JWT Auth Server:  | 0.5  |   http://www.openbodhik.in/2020/06/hdis-mvp-microservices-published.html|
     
 
 
