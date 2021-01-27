@@ -1,3 +1,16 @@
+| Tables   |      Are      |  a |
+|----------|:-------------:|------:|
+| Cloud Configuration: |  left-aligned | $1600 |
+| Service Discovery:   |  centered   |   $12 |
+| Hystrix and Ribbon:  |  right-aligned |    $1 |
+| Zuul Gateway: |  left-aligned | $1600 |
+| Cloud Stream:   |  centered   |   $12 |
+| Hystrix and Ribbon:  |  right-aligned |    $1 |
+| Sleuth/Zipkin:: |  left-aligned | $1600 |
+| Admin Server:   |  centered   |   $12 |
+| JWT Auth Server:  |  right-aligned |    $1 |
+    
+
 
 # MVP Microservice Application built with Spring Cloud
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
